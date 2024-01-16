@@ -18,6 +18,10 @@
         "title": "Show Tab Groups"
       },
       {
+        "command": "neovim-helper.showEditorLayout",
+        "title": "Show Editor Layout"
+      },
+      {
         "command": "neovim-helper.mergeCurrentEditorGroupToSomewhere",
         "title": "Merge Current Editor Group to Somewhere"
       }
